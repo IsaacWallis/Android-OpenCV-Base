@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ike/AndroidStudioProjects/OpenCV/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/ike/AndroidStudioProjects/OpenCV/app/build/intermediates/pre-dexed/debug/classes-2b04b33a84cdd3b7a2631783f4136a3cbde38d91.jar" />
+    </item>
+    <item
+        jar="/usr/local/Cellar/android-sdk/23.0.2/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/ike/AndroidStudioProjects/OpenCV/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-e9a39e62d50345cb03121c0adbbc04570d481997.jar" />
+    </item>
+    <item
+        jar="/Users/ike/AndroidStudioProjects/OpenCV/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/ike/AndroidStudioProjects/OpenCV/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-c1de64f308e3935b03f63401691504ebafbd81b2.jar" />
+    </item>
+    <item
+        jar="/Users/ike/AndroidStudioProjects/OpenCV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/ike/AndroidStudioProjects/OpenCV/app/build/intermediates/pre-dexed/debug/classes-9e647615627788e61f01d00fd8cac9d631b3cdca.jar" />
+    </item>
+    <item
+        jar="/Users/ike/Desktop/Android-OpenCV-Base/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/ike/Desktop/Android-OpenCV-Base/app/build/intermediates/pre-dexed/debug/classes-92707d1e58681c64dd45c16fd3b8956c01a62c63.jar" />
+    </item>
+    <item
+        jar="/Users/ike/Desktop/Android-OpenCV-Base/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/ike/Desktop/Android-OpenCV-Base/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-8d1f1df5ba4e974eeb880905a5c4071a94707256.jar" />
+    </item>
+    <item
+        jar="/Users/ike/Desktop/Android-OpenCV-Base/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/ike/Desktop/Android-OpenCV-Base/app/build/intermediates/pre-dexed/debug/classes-d10419693a31910acde59131ce70601e134c330e.jar" />
+    </item>
+    <item
+        jar="/Users/ike/AndroidStudioProjects/OpenCV/app/build/intermediates/exploded-aar/OpenCV/opencv/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c6552412652ffedad357c42bcd476b792e83cc3">
+        <dex dex="/Users/ike/AndroidStudioProjects/OpenCV/app/build/intermediates/pre-dexed/debug/classes-03890be421d368e019eecc351f6b37facbfaa004.jar" />
+    </item>
+    <item
+        jar="/Users/ike/Desktop/Android-OpenCV-Base/app/build/intermediates/exploded-aar/Android-OpenCV-Base/opencv/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="88e6b209d0c2e1308fa6d7ea6d702fec4193ae6f">
+        <dex dex="/Users/ike/Desktop/Android-OpenCV-Base/app/build/intermediates/pre-dexed/debug/classes-a51e2a11e38d1f5dbd5896ca89ff6df1c1cbb9f8.jar" />
+    </item>
+
+</items>
